@@ -13,7 +13,7 @@
     "body-parser": "^1.19.0",
     "csv-writer": "^1.4.0",
     "date-diff": "^0.2.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "json2csv": "^4.5.1",
     "mysql": "^2.17.1",
     "promises": "^0.2.5"
